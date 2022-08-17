@@ -1,5 +1,7 @@
 ### William Ma, Shipt - Senior MLE
 
+The PR count is false, can't have that many commits with only 3 PRs :)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=willmashipt&hide=stars&count_private=true&show_icons=true&theme=dark" />
 </a>
